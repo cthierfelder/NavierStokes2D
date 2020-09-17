@@ -1,3 +1,3 @@
 # NavierStokes2D
 
-quick 2D Navier Stokes solver
+A quick 2D Navier Stokes solver
